@@ -1,0 +1,11 @@
+song_id,title,genres
+0,Starry Night,	Pop| Rock
+1,Moonlight Sonata, Classical| Instrumental
+2,Electric Groove,Electronic| Dance
+3,Jazz Café,Jazz|Swing
+4,Harmony Road,	Folk| Country
+5,Rhythm Fusión,Latin| World
+6,Urban Beat,Hip-Hop| Rap
+7,Soul Serenade,R&B, Soul
+8,Funkadelic Groove,Funk|Disco
+9,Acoustic Reverie,Acoustic|Indie
